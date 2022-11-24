@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'testnestjs23'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1C2046021CE94D5BBC4EA2CE2E9524FE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FD992F658443459D858CDB0F0BD59AE8 }}
           package: .
